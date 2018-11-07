@@ -13,8 +13,10 @@
 |2018/11/06|Swift-NSPredicate学习整理|[点击前往](https://www.jianshu.com/p/bfdacbdf37a7)| 五月飞 | 基础知识|
 |2018/11/06|Swift中for循环语句|[点击前往](https://blog.csdn.net/sinat_20037505/article/details/53636749)| longdaisfgr923943rre | 基础知识|
 |2018/11/06|Swift4.2 UICollectionView 基本用法|[点击前往](https://www.jianshu.com/p/bee800b9aac8)| YDomo | 基础知识|
-
-
+|2018/11/07|Swift - 告警提示框（UIAlertController）的用法|[点击前往](https://blog.csdn.net/heye644171300/article/details/78407143)| YDomo | 基础知识|
+|2018/11/07|Swift 4 动画 - 1. UIView Animations|[点击前往](https://www.jianshu.com/p/71f2fa270b9c)| YDomo | 基础知识|
+|2018/11/07|iOS 和 swift 中常见的 Int、Int8、Int16、Int32和 Int64介绍|[点击前往](https://blog.csdn.net/dearhoneybee/article/details/51212948)| YDomo | 基础知识|
+|2018/11/07|Swift - socket不定长消息发送接收的几种方法 （以聊天室为例）|[点击前往](http://www.hangge.com/blog/cache/detail_1335.html)| YDomo | 网络请求|
 
 
 
