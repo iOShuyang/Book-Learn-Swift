@@ -17,6 +17,12 @@
 |2018/11/07|Swift 4 动画 - 1. UIView Animations|[点击前往](https://www.jianshu.com/p/71f2fa270b9c)| YDomo | 基础知识|
 |2018/11/07|iOS 和 swift 中常见的 Int、Int8、Int16、Int32和 Int64介绍|[点击前往](https://blog.csdn.net/dearhoneybee/article/details/51212948)| YDomo | 基础知识|
 |2018/11/07|Swift - socket不定长消息发送接收的几种方法 （以聊天室为例）|[点击前往](http://www.hangge.com/blog/cache/detail_1335.html)| YDomo | 网络请求|
+|2018/11/08|Swift4.2基础学习笔记(一)|[点击前往](https://www.jianshu.com/p/bfa6db55da78)| 斯文之仁 | 基础知识|
+|2018/11/08|Swift4.2基础学习笔记(二)|[点击前往](https://www.jianshu.com/p/cea0f64472b5)| 斯文之仁 | 基础知识|
+|2018/11/08|Swift4.2基础学习笔记(三)|[点击前往](https://www.jianshu.com/p/7f9e5109f1a8)| 斯文之仁 | 基础知识|
+|2018/11/08|Swift4.2基础学习笔记(四)|[点击前往](https://www.jianshu.com/p/4498f124c1a1)| 斯文之仁 | 基础知识|
+
+
 
 
 
