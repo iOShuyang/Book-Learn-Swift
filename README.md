@@ -5,25 +5,26 @@
 #####  <div align=center> 编辑积累学习都不容易，希望大家相互鼓励。</div>
 
 
-| 学习时间 | 文字标题 | 文章地址 | 作者 | 知识点 |
-| --- | --- | --- | --- | --- |
-| 2018/11/05 | 【基本功】深入剖析Swift性能优化 | [点击前往](https://juejin.im/post/5bdbdc876fb9a049f36186c3) | 美团技术团队 | 性能 |
-|2018/11/06|Swift String常用方法|[点击前往](https://blog.csdn.net/brycegao321/article/details/78722368)| brycegao321 | 基础知识|
-|2018/11/06|Swift中使用正则表达式|[点击前往](https://blog.csdn.net/qq_14920635/article/details/77689830)| code海 | 基础知识|
-|2018/11/06|Swift-NSPredicate学习整理|[点击前往](https://www.jianshu.com/p/bfdacbdf37a7)| 五月飞 | 基础知识|
-|2018/11/06|Swift中for循环语句|[点击前往](https://blog.csdn.net/sinat_20037505/article/details/53636749)| longdaisfgr923943rre | 基础知识|
-|2018/11/06|Swift4.2 UICollectionView 基本用法|[点击前往](https://www.jianshu.com/p/bee800b9aac8)| YDomo | 基础知识|
-|2018/11/07|Swift - 告警提示框（UIAlertController）的用法|[点击前往](https://blog.csdn.net/heye644171300/article/details/78407143)| YDomo | 基础知识|
-|2018/11/07|Swift 4 动画 - 1. UIView Animations|[点击前往](https://www.jianshu.com/p/71f2fa270b9c)| YDomo | 基础知识|
-|2018/11/07|iOS 和 swift 中常见的 Int、Int8、Int16、Int32和 Int64介绍|[点击前往](https://blog.csdn.net/dearhoneybee/article/details/51212948)| YDomo | 基础知识|
-|2018/11/07|Swift - socket不定长消息发送接收的几种方法 （以聊天室为例）|[点击前往](http://www.hangge.com/blog/cache/detail_1335.html)| YDomo | 网络请求|
-|2018/11/08|Swift4.2基础学习笔记(一)|[点击前往](https://www.jianshu.com/p/bfa6db55da78)| 斯文之仁 | 基础知识|
-|2018/11/08|Swift4.2基础学习笔记(二)|[点击前往](https://www.jianshu.com/p/cea0f64472b5)| 斯文之仁 | 基础知识|
-|2018/11/08|Swift4.2基础学习笔记(三)|[点击前往](https://www.jianshu.com/p/7f9e5109f1a8)| 斯文之仁 | 基础知识|
-|2018/11/08|Swift4.2基础学习笔记(四)|[点击前往](https://www.jianshu.com/p/4498f124c1a1)| 斯文之仁 | 基础知识|
-
-
-
+| 学习时间 | 文字标题 | 文章地址 | 作者 | 知识点 | 知识点内容 |
+| --- | --- | --- | --- | --- |--- |
+| 2018/11/05 | 【基本功】深入剖析Swift性能优化 | [点击前往](https://juejin.im/post/5bdbdc876fb9a049f36186c3) | 美团技术团队 | 性能 | |
+|2018/11/06|Swift String常用方法|[点击前往](https://blog.csdn.net/brycegao321/article/details/78722368)| brycegao321 | 基础知识| |
+|2018/11/06|Swift中使用正则表达式|[点击前往](https://blog.csdn.net/qq_14920635/article/details/77689830)| code海 | 基础知识| |
+|2018/11/06|Swift-NSPredicate学习整理|[点击前往](https://www.jianshu.com/p/bfdacbdf37a7)| 五月飞 | 基础知识| |
+|2018/11/06|Swift中for循环语句|[点击前往](https://blog.csdn.net/sinat_20037505/article/details/53636749)| longdaisfgr923943rre | 基础知识| |
+|2018/11/06|Swift4.2 UICollectionView 基本用法|[点击前往](https://www.jianshu.com/p/bee800b9aac8)| YDomo | 基础知识| |
+|2018/11/07|Swift - 告警提示框（UIAlertController）的用法|[点击前往](https://blog.csdn.net/heye644171300/article/details/78407143)| YDomo | 基础知识| |
+|2018/11/07|Swift 4 动画 - 1. UIView Animations|[点击前往](https://www.jianshu.com/p/71f2fa270b9c)| YDomo | 基础知识| |
+|2018/11/07|iOS 和 swift 中常见的 Int、Int8、Int16、Int32和 Int64介绍|[点击前往](https://blog.csdn.net/dearhoneybee/article/details/51212948)| YDomo | 基础知识| |
+|2018/11/07|Swift - socket不定长消息发送接收的几种方法 （以聊天室为例）|[点击前往](http://www.hangge.com/blog/cache/detail_1335.html)| YDomo | 网络请求| |
+|2018/11/08|Swift4.2基础学习笔记(一)|[点击前往](https://www.jianshu.com/p/bfa6db55da78)| 斯文之仁 | 基础知识| 常量和变量<br><br>类型安全和类型推断<br><br>数值型字面量<br><br>整数转换<br><br>类型别名<br><br>布尔值<br><br>元组|
+|2018/11/08|Swift4.2基础学习笔记(二)|[点击前往](https://www.jianshu.com/p/cea0f64472b5)| 斯文之仁 | 基础知识| |
+|2018/11/08|Swift4.2基础学习笔记(三)|[点击前往](https://www.jianshu.com/p/7f9e5109f1a8)| 斯文之仁 | 基础知识| |
+|2018/11/08|Swift4.2基础学习笔记(四)|[点击前往](https://www.jianshu.com/p/4498f124c1a1)| 斯文之仁 | 基础知识| 赋值运算符<br><br>算数运算符<br><br>余数运算符<br><br>一元加号/减号运算符<br><br>组合赋值符号<br><br>比较运算符<br><br>三元条件运算符<br><br>合并空值运算符<br><br>区间运算符<br><br>逻辑运算符|
+|2018/11/09|Swift4.2基础学习笔记(五)|[点击前往](https://www.jianshu.com/p/7f4ef24f6c94)| 斯文之仁 | 基础知识| 字符串字面量<br><br>初始化一个空字符串<br><br>字符串可变性<br><br>字符串是值类型<br><br>操作字符<br><br>链接字符串和字符<br><br>字符串插值|
+|2018/11/09|Swift4.2基础学习笔记(六)|[点击前往](https://www.jianshu.com/p/a4d7a752729a)| 斯文之仁 | 基础知识| Unicode<br><br>字符串字面量中的特殊字符<br><br>扩展字形集群<br><br>字符统计<br><br>访问和修改字符串<br><br>字符串的Unicode表示法|
+|2018/11/09|Swift4.2基础学习笔记(七)|[点击前往](https://www.jianshu.com/p/81bc5bf60aed)| 斯文之仁 | 基础知识 | 数组<br>合集<br>字典 |
+|2018/11/09|Swift4.2基础学习笔记(八)|[点击前往](https://www.jianshu.com/p/c6f3f77514a5)| 斯文之仁 | 基础知识 | 控制流<br>条件语句<br>控制转移语句 |
 
 
 <!--https://kemchenj.github.io/archives/-->
