@@ -25,6 +25,9 @@
 |2018/11/09|Swift4.2基础学习笔记(六)|[点击前往](https://www.jianshu.com/p/a4d7a752729a)| 斯文之仁 | 基础知识| Unicode<br><br>字符串字面量中的特殊字符<br><br>扩展字形集群<br><br>字符统计<br><br>访问和修改字符串<br><br>字符串的Unicode表示法|
 |2018/11/09|Swift4.2基础学习笔记(七)|[点击前往](https://www.jianshu.com/p/81bc5bf60aed)| 斯文之仁 | 基础知识 | 数组<br>合集<br>字典 |
 |2018/11/09|Swift4.2基础学习笔记(八)|[点击前往](https://www.jianshu.com/p/c6f3f77514a5)| 斯文之仁 | 基础知识 | 控制流<br>条件语句<br>控制转移语句 |
+|2018/11/11|Swift4.2基础学习笔记(九)|[点击前往](https://www.jianshu.com/p/ff93d39b6365)| 斯文之仁 | 基础知识 | 函数 |
+|2018/11/11|Swift4.2基础学习笔记(十)|[点击前往](https://www.jianshu.com/p/c15094ab2ff8)| 斯文之仁 | 基础知识 | 闭包表达式 |
+
 
 
 <!--https://kemchenj.github.io/archives/-->
