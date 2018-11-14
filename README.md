@@ -31,6 +31,7 @@
 |2018/11/12|Swift4.2基础学习笔记(十二)|[点击前往](https://www.jianshu.com/p/d307b382a63f)| 斯文之仁 | 基础知识 | 类和结构体 |
 |2018/11/12|Swift高阶函数：Map，FlatMap，Filter，Reduce指南和实践|[点击前往](https://www.jianshu.com/p/d6d697706e78)| Harveyhhw | 函数 | Swift是支持一门函数式编程的语言，拥有Map，FlatMap,Filter,Reduce针对集合类型的操作。 |
 |2018/11/13|从 OC 到 Swift 的快速入门与专业实践|[点击前往](https://www.jianshu.com/p/dcf208268caf)|基础知识| 介绍与 OC 有明显区别的地方，不会介绍 OC 中没有的，比如元组 |
+|2018/11/14| Objective-C与Swift的转换速查手册 |[点击前往](https://www.jianshu.com/p/e75e665779c3)|基础知识| 主要给大家介绍了关于Objective-C和Swift的转换速查手册的相关资料 |
 
 <!--https://kemchenj.github.io/archives/-->
 <!--https://onevcat.com-->
