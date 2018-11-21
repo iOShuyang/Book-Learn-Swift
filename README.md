@@ -33,6 +33,9 @@
 |2018/11/13|从 OC 到 Swift 的快速入门与专业实践|[点击前往](https://www.jianshu.com/p/dcf208268caf)|基础知识| 介绍与 OC 有明显区别的地方，不会介绍 OC 中没有的，比如元组 |
 |2018/11/14| Objective-C与Swift的转换速查手册 |[点击前往](https://www.jianshu.com/p/e75e665779c3)|基础知识| 主要给大家介绍了关于Objective-C和Swift的转换速查手册的相关资料 |
 |2018/11/15| Swift-MVVM 简单演练(一) |[点击前往](https://juejin.im/post/5972d59d51882578fe4fe7d4)|项目框架|自定义NavgationBar<br><br>抽取便利构造函数<br><br>初步的下拉刷新/上拉加载的简单处理<br><br>未登录逻辑的处理<br><br>苹果原生布局NSLayoutConstraint<br><br>如何用VFL布局(VisualFormatLanguage)<br><br>模拟网络加载应用程序的一些配置tabBar的标题和图片样式<br><br>简单的网络工具单例的封装<br><br>隔离项目中的网络请求方法<br><br>初步的视图模型的体验<br><br>以及一些遇到的语法问题的简单探究|
+|2018/11/21|Swift 4 动画 - 1. UIView Animations|[点击前往](https://www.jianshu.com/p/71f2fa270b9c)|动画|iOS 中实现动画有好几种方式，UIView 无疑是最简单的一种，但是所有的动画归根结底还是 layer 层的动画。|
+|2018/11/21|Swift 中的weak，unowned，Closure Capture List|[点击前往](http://www.cocoachina.com/ios/20181119/25500.html)|基础知识||
+|2018/11/21|重写Swift中的set和get方法|[点击前往](https://blog.csdn.net/sinyui/article/details/78320418)|基础知识|set和get方法|
 
 <!--https://kemchenj.github.io/archives/-->
 <!--https://onevcat.com-->
