@@ -36,6 +36,7 @@
 |2018/11/21|Swift 4 动画 - 1. UIView Animations|[点击前往](https://www.jianshu.com/p/71f2fa270b9c)|动画|iOS 中实现动画有好几种方式，UIView 无疑是最简单的一种，但是所有的动画归根结底还是 layer 层的动画。|
 |2018/11/21|Swift 中的weak，unowned，Closure Capture List|[点击前往](http://www.cocoachina.com/ios/20181119/25500.html)|基础知识||
 |2018/11/21|重写Swift中的set和get方法|[点击前往](https://blog.csdn.net/sinyui/article/details/78320418)|基础知识|set和get方法|
+|2018/11/22|实用的可选项（Optional）扩展|[点击前往](https://juejin.im/post/5bf2627ee51d45686a68a245)|基础知识|（需要学习）|
 
 <!--https://kemchenj.github.io/archives/-->
 <!--https://onevcat.com-->
