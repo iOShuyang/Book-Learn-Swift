@@ -37,6 +37,11 @@
 |2018/11/21|Swift 中的weak，unowned，Closure Capture List|[点击前往](http://www.cocoachina.com/ios/20181119/25500.html)|基础知识||
 |2018/11/21|重写Swift中的set和get方法|[点击前往](https://blog.csdn.net/sinyui/article/details/78320418)|基础知识|set和get方法|
 |2018/11/22|实用的可选项（Optional）扩展|[点击前往](https://juejin.im/post/5bf2627ee51d45686a68a245)|基础知识|（需要学习）|
+|2018/11/26|Swift4.0 通知的使用|[点击前往](https://www.jianshu.com/p/be952ec2bdfc)|基础知识|通知|
+|2018/11/26|Swift 中 Substring 与 String|[点击前往](https://www.jianshu.com/p/ff8c099d23b1)|基础知识|字符串|
+
+
+
 
 <!--https://kemchenj.github.io/archives/-->
 <!--https://onevcat.com-->
