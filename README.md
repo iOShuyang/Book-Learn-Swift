@@ -41,7 +41,8 @@
 |2018/11/26|Swift 中 Substring 与 String|[点击前往](https://www.jianshu.com/p/ff8c099d23b1)||基础知识|字符串|
 |2018/11/27|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|[点击前往](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)||基础知识|🌟|
 |2018/12/04|swift 4 设置Label的内边距,亲测有效|[点击前往](https://www.jianshu.com/p/702cba22f078)|小曼Study|基础知识||
-
+|2018/12/05|教你如何自定义AlertView|[点击前往](https://juejin.im/post/5bfd0721e51d4524d9251198)|Dwyane_Coding|基础知识||
+|2018/12/05|来自Linkedin的Swift编程风格指南|[点击前往](https://juejin.im/post/5bfd0721e51d4524d9251198)|王下邀月熊_Chevalier的Github|代码风格|
 
 
 
