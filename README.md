@@ -44,6 +44,17 @@
 |2018/12/05|教你如何自定义AlertView|[点击前往](https://juejin.im/post/5bfd0721e51d4524d9251198)|Dwyane_Coding|基础知识||
 |2018/12/05|来自Linkedin的Swift编程风格指南|[点击前往](https://juejin.im/post/5bfd0721e51d4524d9251198)|王下邀月熊_Chevalier的Github|代码风格||
 |2018/12/06|Swift4 range与NSRange互转,字符串查找|[点击前往](https://www.jianshu.com/p/b23f0ac70826)|船长_|基础知识||
+|2018/12/09|Swift基于Alamofire的再次封装|[点击前往](https://www.jianshu.com/p/fd3672151539)|天明天|网络请求||
+|2018/12/09|swift 4 Alamofire与SwiftJSON框架的使用|[点击前往](https://www.jianshu.com/p/33b9cb65d3f2)|牵手生活|网络请求||
+|2018/12/09|Swift 网络请求 : Moya使用理解|[点击前往](https://www.jianshu.com/p/219b197a230a)|li_礼光|网络请求||
+|2018/12/09|iOS 使用Moya网络请求|[点击前往](https://www.jianshu.com/p/38fbc22a1e2b)|Lewis海|网络请求||
+|2018/12/09|Moya+Realm+RxSwift+SwiftyJSON优雅的网络请求方式(扩展离线缓存)|[点击前往](https://www.jianshu.com/p/f4b8f4c27069)| YxYYxY|网络请求||
+|2018/12/09|Moya+ RxSwift+HandyJSON 优雅处理网络请求|[点击前往](https://blog.csdn.net/lvchenqiang_/article/details/79177444)| lv灬陈强|网络请求||
+|2018/12/09|学习 Swift Moya（二）- Moya + SwiftyJSON + RxSwift|[点击前往](https://www.jianshu.com/p/aba7aed61afd)|jkyeo|网络请求||
+
+
+
+
 
 
 <!--https://kemchenj.github.io/archives/-->
