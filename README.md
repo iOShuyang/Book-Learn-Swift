@@ -44,6 +44,23 @@
 |2018/12/05|教你如何自定义AlertView|[点击前往](https://juejin.im/post/5bfd0721e51d4524d9251198)|Dwyane_Coding|基础知识||
 |2018/12/05|来自Linkedin的Swift编程风格指南|[点击前往](https://juejin.im/post/5bfd0721e51d4524d9251198)|王下邀月熊_Chevalier的Github|代码风格||
 |2018/12/06|Swift4 range与NSRange互转,字符串查找|[点击前往](https://www.jianshu.com/p/b23f0ac70826)|船长_|基础知识||
+|2018/12/11|swift4.0 UIPickerView的使用（省市区、日期、性别选择器）|[点击前往](https://www.jianshu.com/p/3112bc6b3133)|木犀花|UI控件||
+|2018/12/11|Swift- 枚举中的rawValue和hashValue|[点击前往](https://blog.csdn.net/super_lee2013/article/details/47626427)|guisense|基础知识||
+|2018/12/11|Swift 统一导入三方库|[点击前往](https://www.jianshu.com/p/8745eb11d152)|韦弦Zhy|小常识||
+|2018/12/11|Swift 教程|[点击前往](http://www.runoob.com/swift/swift-tutorial.html)||基础知识|🌟<br><br>Swift 是一种支持多编程范式和编译式的开源编程语言,苹果于2014年WWDC（苹果开发者大会）发布，用于开发 iOS，OS X 和 watchOS 应用程序。<br><br>Swift 结合了 C 和 Objective-C 的优点并且不受 C 兼容性的限制。<br><br>Swift 在 Mac OS 和 iOS 平台可以和 Object-C 使用相同的运行环境。<br><br>2015年6月8日，苹果于WWDC 2015上宣布，Swift将开放源代码，包括编译器和标准库。|
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# swift三方框架学习
+
+| 学习时间 | 文字标题 | 文章地址 | 作者 | 知识点 | 知识点内容 |
+| --- | --- | --- | --- | --- |--- |
 |2018/12/09|Swift基于Alamofire的再次封装|[点击前往](https://www.jianshu.com/p/fd3672151539)|天明天|网络请求||
 |2018/12/09|swift 4 Alamofire与SwiftJSON框架的使用|[点击前往](https://www.jianshu.com/p/33b9cb65d3f2)|牵手生活|网络请求||
 |2018/12/09|Swift 网络请求 : Moya使用理解|[点击前往](https://www.jianshu.com/p/219b197a230a)|li_礼光|网络请求||
@@ -53,9 +70,8 @@
 |2018/12/09|学习 Swift Moya（二）- Moya + SwiftyJSON + RxSwift|[点击前往](https://www.jianshu.com/p/aba7aed61afd)|jkyeo|网络请求||
 |2018/12/10|超详细-swift Moya+handyJSON网络框架的搭建及封装|[点击前往](https://www.jianshu.com/p/adee88ddcd06)|liaoworkinn|网络请求||
 |2018/12/10|了解 HandyJSON|[点击前往](https://www.jianshu.com/p/9ac8df866978?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)|liaoworkinn|网络请求||
-
-
-
+|2018/12/11|SwiftDate使用笔记（翻译）|[点击前往](https://www.jianshu.com/p/8745eb11d152)|周元素|三方框架||
+|2018/12/11|Json转模型1--SwiftyJson|[点击前往](https://blog.csdn.net/keep_moving31038/article/details/78552697)| Keep_Moving31038|三方框架||
 
 <!--https://kemchenj.github.io/archives/-->
 <!--https://onevcat.com-->
