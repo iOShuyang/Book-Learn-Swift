@@ -72,6 +72,7 @@
 |2018/12/10|了解 HandyJSON|[点击前往](https://www.jianshu.com/p/9ac8df866978?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)|liaoworkinn|网络请求||
 |2018/12/11|SwiftDate使用笔记（翻译）|[点击前往](https://www.jianshu.com/p/8745eb11d152)|周元素|三方框架||
 |2018/12/11|Json转模型1--SwiftyJson|[点击前往](https://blog.csdn.net/keep_moving31038/article/details/78552697)| Keep_Moving31038|三方框架||
+|2018/12/12|数据序列化框架在 Swift 日常开发中的应用|[点击前往](https://blog.yuhanle.com/2018/07/05/json-analysis-in-swift/)| Keep_Moving31038|三方框架||
 
 <!--https://kemchenj.github.io/archives/-->
 <!--https://onevcat.com-->
