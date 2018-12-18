@@ -76,7 +76,7 @@
 |2018/12/17|巧用MJRefresh|[点击前往](https://www.jianshu.com/p/780d5db031a8)|langkee|三方框架||
 |2018/12/17|swift kingfisher原理使用|[点击前往](https://blog.csdn.net/wokuaab_q/article/details/81663311)| 李绿箩|三方框架||
 |2018/12/17|Kingfisher使用介绍|[点击前往](https://www.jianshu.com/p/d3090ea4836c)| 睡一个号角|三方框架||
-
+|2018/12/18|swift开发笔记：Alamofire 4.5 - 上传图片、视频到服务器(含后台代码)|[点击前往](https://www.2cto.com/kf/201708/671980.html)|喵喵学长|网络请求||
 
 
 <!--https://kemchenj.github.io/archives/-->
