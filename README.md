@@ -52,6 +52,8 @@
 |2018/12/19|（iOS, Swift）用 CGAffineTransform 和 CATransform3D 做旋转，平移，缩放变换|[点击前往](https://www.jianshu.com/p/9fba6e3569c1)||基础知识||
 |2018/12/19|Swift 4 动画 - 1. UIView Animations|[点击前往](https://www.jianshu.com/p/71f2fa270b9c)||基础知识||
 |2018/12/24|Swift多线程操作GCD使用总结|[点击前往](https://www.jianshu.com/p/8d4cc42b095b)|平凡之路561|多线程||
+|2019/01/07|Swift 4.0中 GCD定时器写法，及延时操作|[点击前往](https://blog.csdn.net/zxw_xzr/article/details/78317936)|zxw_1141189194|多线程||
+|2019/01/07|Swift 中的 Selector|[点击前往](https://www.jianshu.com/p/f3f2c663115d)|萌面大道|基础知识||
 
 <br>
 <br>
