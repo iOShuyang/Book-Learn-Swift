@@ -54,6 +54,8 @@
 |2018/12/24|Swift多线程操作GCD使用总结|[点击前往](https://www.jianshu.com/p/8d4cc42b095b)|平凡之路561|多线程||
 |2019/01/07|Swift 4.0中 GCD定时器写法，及延时操作|[点击前往](https://blog.csdn.net/zxw_xzr/article/details/78317936)|zxw_1141189194|多线程||
 |2019/01/07|Swift 中的 Selector|[点击前往](https://www.jianshu.com/p/f3f2c663115d)|萌面大道|基础知识||
+|2019/01/16|Swift开发入门-基础知识,附demo|[点击前往](http://www.cocoachina.com/ios/20190103/26024.html)|Gboy|基础知识||
+|2019/01/16|Swift修饰符(final、override、discardableResult、mutating、lazy、inou|[点击前往](http://www.cocoachina.com/ios/20190103/26022.html)|Gboy|基础知识||
 
 <br>
 <br>
