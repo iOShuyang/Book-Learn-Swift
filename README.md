@@ -56,6 +56,9 @@
 |2019/01/07|Swift 中的 Selector|[点击前往](https://www.jianshu.com/p/f3f2c663115d)|萌面大道|基础知识||
 |2019/01/16|Swift开发入门-基础知识,附demo|[点击前往](http://www.cocoachina.com/ios/20190103/26024.html)|Gboy|基础知识||
 |2019/01/16|Swift修饰符(final、override、discardableResult、mutating、lazy、inou|[点击前往](http://www.cocoachina.com/ios/20190103/26022.html)|Gboy|基础知识||
+|2019/01/17|swift - 计算文字宽度和高度|[点击前往](https://www.jianshu.com/p/f3c27f127da8)|GA|基础知识||
+|2019/01/17|swift 计算文字的宽高|[点击前往](https://www.jianshu.com/p/d15fff5ae75b)|chinwy|基础知识||
+
 
 <br>
 <br>
