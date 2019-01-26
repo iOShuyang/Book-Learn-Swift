@@ -59,6 +59,8 @@
 |2019/01/17|swift - 计算文字宽度和高度|[点击前往](https://www.jianshu.com/p/f3c27f127da8)|GA|基础知识||
 |2019/01/17|swift 计算文字的宽高|[点击前往](https://www.jianshu.com/p/d15fff5ae75b)|chinwy|基础知识||
 |2019/01/21|iOS之swift学习笔记|[点击前往](https://www.jianshu.com/p/563738348597)|请输入账号名|基础知识||
+|2019/01/21|Swift之加载本地或者网络GIF图片|[点击前往](https://blog.csdn.net/forever_wj/article/details/73469110)| Forever_wj|基础知识||
+|2019/01/21|Swift - 获取应用名称、应用版本、设备型号、系统版本等信息|[点击前往](https://blog.csdn.net/mo_xiao_mo/article/details/72841003)| mo_xiao_mo|基础知识||
 
 <br>
 <br>
