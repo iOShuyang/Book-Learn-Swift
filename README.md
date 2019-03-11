@@ -64,6 +64,7 @@
 |2019/02/18|Swift4中对于日期时间的处理（Date、DateComponents、Calendar、DateFormatter、Locale）|[点击前往](https://blog.csdn.net/shenjie_xsj/article/details/79033861)| shenjie_xsj|基础知识||
 |2019/02/18|Swift4.0 - GCD|[点击前往](https://www.jianshu.com/p/96032a032c7c)| SealShile|多线程||
 |2019/02/27|swift----- 国际化之app内切换语言|[点击前往](https://www.jianshu.com/p/23d784aca342)| YifBo|基础知识||
+|2019/03/11|Swift之二维码的生成、识别和扫描|[点击前往](https://www.jianshu.com/p/0a30d1af8335)| ShmilyCoder|基础知识||
 
 <br>
 <br>
