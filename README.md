@@ -65,6 +65,11 @@
 |2019/02/18|Swift4.0 - GCD|[点击前往](https://www.jianshu.com/p/96032a032c7c)| SealShile|多线程||
 |2019/02/27|swift----- 国际化之app内切换语言|[点击前往](https://www.jianshu.com/p/23d784aca342)| YifBo|基础知识||
 |2019/03/11|Swift之二维码的生成、识别和扫描|[点击前往](https://www.jianshu.com/p/0a30d1af8335)| ShmilyCoder|基础知识||
+|2019/04/08|iOS积累的零碎常用操作swift|[点击前往](https://juejin.im/post/5c90f6adf265da610a56e43b)|奏响曲|基础知识||
+|2019/04/08|Swift高仿喜马拉雅FM(Swift4.1)|[点击前往](https://blog.csdn.net/weixin_34162401/article/details/87470098)|weixin_34162401|基础知识||
+|2019/04/08|Swift优雅的进行解包|[点击前往](https://www.jianshu.com/p/4bfbb0ba4d32)|seasonZhu|基础知识||
+|2019/04/08|Swift 5.0 值得关注的特性：更强大的 Raw String|[点击前往](https://www.jianshu.com/p/17fab783bfad)|没故事的卓同学|基础知识||
+
 
 <br>
 <br>
