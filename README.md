@@ -1,5 +1,5 @@
-#  日常学习Swift开发的积累
-###  推荐一些平时自己学习Swift开发当中接触到的优秀文章，主要是基于swift4.0以上的版本
+#  <div align=center> 日常学习Swift开发的积累</div>
+###  <div align=center> 推荐一些平时自己学习Swift开发当中接触到的优秀文章，主要是基于swift4.0以上的版本</div>
 
 #####  <div align=center> 小编会不定时更新哦，麻烦给一个赞哈。</div>
 #####  <div align=center> 编辑积累学习都不容易，希望大家相互鼓励。</div>
@@ -97,6 +97,7 @@
 |2018/12/17|swift kingfisher原理使用|[点击前往](https://blog.csdn.net/wokuaab_q/article/details/81663311)| 李绿箩|三方框架||
 |2018/12/17|Kingfisher使用介绍|[点击前往](https://www.jianshu.com/p/d3090ea4836c)| 睡一个号角|三方框架||
 |2018/12/18|swift开发笔记：Alamofire 4.5 - 上传图片、视频到服务器(含后台代码)|[点击前往](https://www.2cto.com/kf/201708/671980.html)|喵喵学长|网络请求||
+|2019/06/18|RxSwift 使用详解系列|[点击前往](https://www.jianshu.com/p/f61a5a988590)|八级大狂风AM|三方框架||
 
 
 <!--https://kemchenj.github.io/archives/-->
