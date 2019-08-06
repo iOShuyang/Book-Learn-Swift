@@ -70,6 +70,11 @@
 |2019/04/08|Swift优雅的进行解包|[点击前往](https://www.jianshu.com/p/4bfbb0ba4d32)|seasonZhu|基础知识||
 |2019/04/08|Swift 5.0 值得关注的特性：更强大的 Raw String|[点击前往](https://www.jianshu.com/p/17fab783bfad)|没故事的卓同学|基础知识||
 |2019/04/19|《swift进阶》学习笔记|[点击前往](https://github.com/Liaoworking/Advanced-Swift)|Guanghui Liao|基础知识||
+|2019/08/06|Swift进阶 - 更高效的使用集合|[点击前往](http://www.cocoachina.com/articles/28504)|godiscode|基础知识||
+|2019/08/06|Swift中的高阶函数: Filter, Map, Reduce, flatmap, compactMap(译)|[点击前往](http://www.cocoachina.com/articles/28505)|godiscode|基础知识||
+|2019/08/06|帮你成为更好的Swift开发者的10个Tips（译）|[点击前往](http://www.cocoachina.com/articles/28541)|godiscode|基础知识||
+
+
 
 <br>
 <br>
