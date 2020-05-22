@@ -80,6 +80,8 @@
 |2020/03/23|swift面试题|[点击前往](https://juejin.im/post/5e65b85ae51d4526c70fbb55#heading-2)|慵懒的我|基础知识||
 |2020/03/23|Swift 浅谈Struct与Class|[点击前往](https://www.cnblogs.com/beckwang0912/p/8508299.html)|贝壳哒灰机|基础知识||
 |2020/03/23|Swift编程思想,Struct(结构体)|[点击前往](https://www.jianshu.com/p/c2e1cab05ab9)|滕彩虹|基础知识||
+|2020/05/22|Swift-29个关键字，助力开发（万字长文）|[点击前往](https://juejin.im/post/5e7984596fb9a07cc01a4a87)|SunshineBrother|基础知识||
+|2020/05/22|Swift开发小记（含面试题）|[点击前往](https://juejin.im/post/5e5cf951e51d452712105052)|进击的蜗牛君|基础知识||
 <br>
 <br>
 <br>
@@ -107,6 +109,7 @@
 |2018/12/17|Kingfisher使用介绍|[点击前往](https://www.jianshu.com/p/d3090ea4836c)| 睡一个号角|三方框架||
 |2018/12/18|swift开发笔记：Alamofire 4.5 - 上传图片、视频到服务器(含后台代码)|[点击前往](https://www.2cto.com/kf/201708/671980.html)|喵喵学长|网络请求||
 |2019/06/18|RxSwift 使用详解系列|[点击前往](https://www.jianshu.com/p/f61a5a988590)|八级大狂风AM|三方框架||
+|2020/05/22|开源项目分析（SwiftHub）Rxswift + MVVM + Moya 架构分析（一）第三方框架使用|[点击前往](https://juejin.im/post/5e95d1c451882573c85ae2c4)|孔雨露|三方框架||
 
 <!--https://kemchenj.github.io/archives/-->
 <!--https://onevcat.com-->
