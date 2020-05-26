@@ -82,6 +82,11 @@
 |2020/03/23|Swift编程思想,Struct(结构体)|[点击前往](https://www.jianshu.com/p/c2e1cab05ab9)|滕彩虹|基础知识||
 |2020/05/22|Swift-29个关键字，助力开发（万字长文）|[点击前往](https://juejin.im/post/5e7984596fb9a07cc01a4a87)|SunshineBrother|基础知识||
 |2020/05/22|Swift开发小记（含面试题）|[点击前往](https://juejin.im/post/5e5cf951e51d452712105052)|进击的蜗牛君|基础知识||
+|2020/05/26|OC项目转Swift指南|[点击前往](https://juejin.im/post/5e5a4f20518825495a277aa7)|zhangferry|基础知识||
+|2020/05/26|使用Swift学习算法和数据结构|[点击前往](https://github.com/andyRon/swift-algorithm-club-cn)|andyRon|基础知识||
+|2020/05/26|Swift4 相机二维码扫描|[点击前往](https://blog.csdn.net/weixin_33890526/article/details/88002566)|weixin_33890526|基础知识||
+|2020/05/26|Swift4如何扫描二维码了解一下|[点击前往](https://www.jianshu.com/p/e16a4380d7b2)|抢手的哥|基础知识||
+
 <br>
 <br>
 <br>
