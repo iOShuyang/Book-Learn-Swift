@@ -86,7 +86,11 @@
 |2020/05/26|使用Swift学习算法和数据结构|[点击前往](https://github.com/andyRon/swift-algorithm-club-cn)|andyRon|基础知识||
 |2020/05/26|Swift4 相机二维码扫描|[点击前往](https://blog.csdn.net/weixin_33890526/article/details/88002566)|weixin_33890526|基础知识||
 |2020/05/26|Swift4如何扫描二维码了解一下|[点击前往](https://www.jianshu.com/p/e16a4380d7b2)|抢手的哥|基础知识||
-
+|2020/06/03|Swift - 使用arc4random()、arc4random_uniform()取得随机数|[点击前往](https://www.hangge.com/blog/cache/detail_512.html)|hangge.com|基础知识||
+|2020/06/03|Swift - 文件，文件夹操作大全|[点击前往](https://www.hangge.com/blog/cache/detail_527.html)|hangge.com|基础知识||
+|2020/06/03|Swift - 加速传感器（CoreMotion）的用法，小球加速运动并反弹样例|[点击前往](https://www.hangge.com/blog/cache/detail_545.html)|hangge.com|基础知识||
+|2020/06/03|Swift - 二进制，八进制，十六进制的表示方法|[点击前往](https://www.hangge.com/blog/cache/detail_553.html)|hangge.com|基础知识||
+|2020/06/03|Swift - 自定义单元格实现微信聊天界面|[点击前往](https://www.hangge.com/blog/cache/detail_559.html)|hangge.com|基础知识||
 <br>
 <br>
 <br>
