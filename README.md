@@ -4,7 +4,25 @@
 #####  <div align=center> 小编会不定时更新哦，麻烦给一个赞哈。</div>
 #####  <div align=center> 编辑积累学习都不容易，希望大家相互鼓励。</div>
 
+<br>
+<br>
+<br>
+<br>
 
+# swift学习网址推荐
+
+| 网址名 | 备注 | 
+| --- | --- | 
+|[ios开发工程师 零基础到app上线](https://www.bilibili.com/video/BV1rb411L7QZ?p=12)|视频教程，主讲OC和Swift语法基础|
+|[SwiftGG](https://swiftgg.gitbook.io/swift/)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|
+|[Swift教程｜菜鸟教程](https://www.runoob.com/swift/swift-tutorial.html)|本教程适合想从事移动端(iphone)开发或 OS X 应用的编程人员，如果之前有编程基础更好。|
+
+<br>
+<br>
+<br>
+<br>
+
+# swift零散学习资料
 | 学习时间 | 文字标题 | 文章地址 | 作者 | 知识点 | 知识点内容 |
 | --- | --- | --- | --- | --- |--- |
 | 2018/11/05 | 【基本功】深入剖析Swift性能优化 | [点击前往](https://juejin.im/post/5bdbdc876fb9a049f36186c3) | 美团技术团队 | 性能 | |
@@ -94,6 +112,9 @@
 |2020/06/10|《swift进阶》学习笔记 swift 5.1|[点击前往](https://github.com/Liaoworking/Advanced-Swift)|Guanghui Liao|基础知识||
 |2020/06/10|Swift进阶黄金之路（一）|[点击前往](https://juejin.im/post/5eb8186bf265da7b95055d4d)|zhangferry|基础知识||
 |2020/06/10|Swift进阶黄金之路（二）|[点击前往](https://juejin.im/post/5ed3ad2f6fb9a047f2298c6f)|zhangferry|基础知识||
+|2020/07/03|Swift语法糖的使用|[点击前往](https://www.jianshu.com/p/3c3222fcfdad)|鸟人扎墨客|基础知识||
+|2020/07/03|Swift语法糖---初始化Then|[点击前往](https://www.jianshu.com/p/4ec6a245375f)|calm1993|基础知识||
+|2020/07/03|语法糖(简单却不那么简单)|[点击前往](https://zhuanlan.zhihu.com/p/25069034)|王衡杰|基础知识||
 
 <br>
 <br>
